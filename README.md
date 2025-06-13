@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### Time To Shine 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312z2danecqyvhp7poo5f3evby2a&count=1)
-
 ###
 
 <br clear="both">
