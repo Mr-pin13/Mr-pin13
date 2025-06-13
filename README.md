@@ -15,7 +15,13 @@
 
 ###### <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 
-##### wait a minute, my program is still a mess, because I have to do my homework. Byee😊😊
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Pinach">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pinach&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
