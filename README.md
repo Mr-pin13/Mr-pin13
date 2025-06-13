@@ -1,9 +1,9 @@
-### Hi, My Name Is Pinn. 
+### yoo, Ssshhuupp. 
 
 ![Header](img/github-header-image.png)
 
-##### Learn Skills
-<div align="left">
+### Learn Skills
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -15,13 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### 
+### Time To Shine 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Pinach">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pinach&count=10" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312z2danecqyvhp7poo5f3evby2a&count=1)
 
 ###
 
