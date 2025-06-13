@@ -2,8 +2,14 @@
 
 ![Header](img/github-header-image.png)
 
-### Watch me slay this monster using nothing but curly braces, semicolons, and my secret identity as Spiderman
+* Informatics Student ![alt text](image.png)
 
-![sapidarman](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4NTg5dXhjMTdqc2d0MTFjcXBmaHY3eXhncHMxaXkzNTJtZDU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3TSLqkGyucj34ELTa/giphy.gif)
+##### Learn Skills
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> ⭐⭐
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />⭐
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> ⭐
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ⭐
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> -
 
-#### wait a minute, my program is still a mess, because I have to do my homework. Byee😊😊
+##### wait a minute, my program is still a mess, because I have to do my homework. Byee😊😊
