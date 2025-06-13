@@ -1,8 +1,10 @@
-### yoo, Ssshhuupp. 
+### yoo, Ssshhuupp😎
 
 ![Header](img/github-header-image.png)
-
-### <div align="center">Learn Skills</div>
+###
+-
+-
+##### <div align="center">Learn Skills</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
