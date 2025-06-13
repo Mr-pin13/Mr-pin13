@@ -2,7 +2,8 @@
 
 ![Header](img/github-header-image.png)
 
-### Learn Skills
+### <div align="center">Learn Skills</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
