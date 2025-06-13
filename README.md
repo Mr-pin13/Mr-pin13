@@ -29,3 +29,7 @@
 <img src="https://raw.githubusercontent.com/Mr-pin13/Mr-pin13/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center">Wait For The Next Update, K!!</p>
+
+###
