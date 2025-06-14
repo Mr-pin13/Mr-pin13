@@ -2,13 +2,11 @@
 
 ###
 <br clear="both">
-
-<div align="center">
-  
-</div>
-
 🌱 I’m currently learning **WEB Development**
-<img align="left" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3dGdycTg5dzI2a3lyNHRsODVscnYzam93bmV5ZmY2aGx2ZWEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G96GQDKnFv6py/giphy.gif">
+
+#
+
+<img align="left" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3dGdycTg5dzI2a3lyNHRsODVscnYzam93bmV5ZmY2aGx2ZWEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G96GQDKnFv6py/giphy.gif">
 
 <br>
 <h3 align="right">Languages and Tools:</h3>
