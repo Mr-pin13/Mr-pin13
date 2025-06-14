@@ -2,9 +2,9 @@
 
 ###
 <br clear="both">
+
 🌱 I’m currently learning **WEB Development**
 
-#
 
 <img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3dGdycTg5dzI2a3lyNHRsODVscnYzam93bmV5ZmY2aGx2ZWEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G96GQDKnFv6py/giphy.gif">
 
