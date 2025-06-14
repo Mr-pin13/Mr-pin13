@@ -1,9 +1,9 @@
-### Yoo, I'm Pin😎
+### shup, I'm Pin😎
 
 ###
 <br clear="both">
 
-🌱 I’m currently learning **WEB Development**
+🌱 I am currently learning a **languages**
 
 
 <img align="right" alt="Coding" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA1Zzl6Mjd2MDJtaWt4ZDRlMm4zem5kZG9iZ3F1enRseDV0eDYzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KRLzLa9eac6wYLXu6A/giphy.gif">
