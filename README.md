@@ -1,34 +1,33 @@
-### Yoo, I'm Pinn😎
+### Yoo, I'm Pin😎
 
 ###
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB0Nzlpc2ZoZmxyMmNtOXJqZDd1N203bGgwZ2s1M2p0YWhxM2V3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8jbbeijwfB4gJa/giphy.gif"  />
+  
 </div>
 
-##
+🌱 I’m currently learning **WEB Development**
+<img align="left" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2c3dGdycTg5dzI2a3lyNHRsODVscnYzam93bmV5ZmY2aGx2ZWEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G96GQDKnFv6py/giphy.gif">
 
-##### <div align="center">Learn Skills</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+<br>
+<h3 align="right">Languages and Tools:</h3>
+<p align="right"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="Dockerfile" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><br>
 
 #
 #
 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="210" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWl6dm11OG1ocmE5dDltemg4ZjBiYjBqZzR6cmI3d201bXc5c2ttYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7aTUrRdHzOK7HI4/giphy.gif" >
+<br>
 
-###
 
-<p align="center">Wait For The Next Update, K!!</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-pin13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pin" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mr-pin13&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=Mr-pin13&theme=dark&hide_border=false" alt="anii693" /></p>
 
 ###
