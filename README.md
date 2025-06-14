@@ -6,7 +6,7 @@
 🌱 I’m currently learning **WEB Development**
 
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnpvdWNtem5pZDd4MHd1b3RteTBzdmJsN2c2aHo4dDV5aWxxZzMycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BzDvnHUHdcinvusgn5/giphy.gif">
+<img align="right" alt="Coding" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA1Zzl6Mjd2MDJtaWt4ZDRlMm4zem5kZG9iZ3F1enRseDV0eDYzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KRLzLa9eac6wYLXu6A/giphy.gif">
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
