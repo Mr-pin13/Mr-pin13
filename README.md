@@ -1,12 +1,13 @@
-### yoo, Ssshhuupp😎
+### Yoo, I'm Pinn😎
 
-![Header](img/github-header-image.png)
 ###
 <br clear="both">
 
 <div align="center">
-  <img height="201" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB0Nzlpc2ZoZmxyMmNtOXJqZDd1N203bGgwZ2s1M2p0YWhxM2V3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8jbbeijwfB4gJa/giphy.gif"  />
+  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB0Nzlpc2ZoZmxyMmNtOXJqZDd1N203bGgwZ2s1M2p0YWhxM2V3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8jbbeijwfB4gJa/giphy.gif"  />
 </div>
+
+##
 
 ##### <div align="center">Learn Skills</div>
 
