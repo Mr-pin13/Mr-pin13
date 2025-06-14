@@ -4,7 +4,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB0Nzlpc2ZoZmxyMmNtOXJqZDd1N203bGgwZ2s1M2p0YWhxM2V3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8jbbeijwfB4gJa/giphy.gif"  />
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB0Nzlpc2ZoZmxyMmNtOXJqZDd1N203bGgwZ2s1M2p0YWhxM2V3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8jbbeijwfB4gJa/giphy.gif"  />
 </div>
 
 ##
@@ -23,11 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
+#
+#
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mr-pin13/Mr-pin13/output/snake.svg" alt="Snake animation" />
 
 ###
 
