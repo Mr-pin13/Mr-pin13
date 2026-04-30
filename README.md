@@ -24,7 +24,7 @@
 
 ##
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
